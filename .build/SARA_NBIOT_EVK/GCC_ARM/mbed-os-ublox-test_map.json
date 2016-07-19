@@ -3,16 +3,16 @@
         "module": "Fill", 
         "size": {
             ".data": 0, 
-            ".bss": 23, 
-            ".text": 64
+            ".bss": 28, 
+            ".text": 68
         }
     }, 
     {
         "module": "Misc", 
         "size": {
             ".data": 120, 
-            ".bss": 252, 
-            ".text": 14573
+            ".bss": 231, 
+            ".text": 22761
         }
     }, 
     {
@@ -20,7 +20,7 @@
         "size": {
             ".data": 16, 
             ".bss": 439, 
-            ".text": 13851
+            ".text": 13427
         }
     }, 
     {
@@ -44,16 +44,16 @@
         "size": {
             ".data": 36, 
             ".bss": 752, 
-            ".text": 3850
+            ".text": 3894
         }
     }, 
     {
         "summary": {
-            "total_flash": 42661, 
+            "total_flash": 50473, 
             "allocated_stack": 3072, 
-            "total_static_ram": 2728, 
+            "total_static_ram": 2712, 
             "total_ram": 16124, 
-            "allocated_heap": 10324
+            "allocated_heap": 10340
         }
     }
 ]

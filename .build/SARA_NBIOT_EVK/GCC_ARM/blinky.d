@@ -51,4 +51,6 @@
  mbed-os/core/hal/api/LocalFileSystem.h \
  mbed-os/core/hal/api/InterruptIn.h mbed-os/core/hal/hal/gpio_irq_api.h \
  mbed-os/core/hal/api/wait_api.h mbed-os/core/hal/hal/sleep_api.h \
- mbed-os/core/hal/api/rtc_time.h mbed-os/core/hal/api/FunctionPointer.h
+ mbed-os/core/hal/api/rtc_time.h mbed-os/core/hal/api/FunctionPointer.h \
+ ublox/HTTPClient.h ublox/IHTTPData.h ublox/modem_driver.h \
+ ublox/serial_driver.h ublox/HTTPText.h ublox/HTTPMap.h
